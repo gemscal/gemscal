@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on OTK game more details soon.
+🎮 I’m currently working on OTK(one true king) game more details soon.
 
 <!--
 **gemscal/gemscal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
