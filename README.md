@@ -1,10 +1,10 @@
 ## 👋 Hi there! I'm James
 
-I'm a Software Engineer in Custom Engineering @ [**Accenture**](https://www.accenture.com), working with teams across Japan and India.
-Before that I was a Software UI Engineer in Product Engineering @ [**Reekoh**](https://www.reekoh.com) (acquired by Autodesk), an industrial IoT integration platform.
+I'm a Software Engineer @ [**Accenture**](https://www.accenture.com) (Custom Engineering), working with teams across Japan and India.
+Before that I was a Software UI Engineer @ [**Reekoh**](https://www.reekoh.com) (Product Engineering), an industrial IoT integration platform acquired by Autodesk.
 I have a Bachelor's degree in Information Technology from the Technological University of the Philippines.
 
-### 🛠️ Currently building with
+### 🛠️ Currently building an AI product with
 
 ![Python](https://img.shields.io/badge/-Python-334155?style=flat&logo=python&logoColor=white)&nbsp;
 ![FastAPI](https://img.shields.io/badge/-FastAPI-334155?style=flat&logo=fastapi&logoColor=white)&nbsp;
